@@ -59,6 +59,7 @@ function createDivsForColors(colorArray) {
 
 // TODO: Implement this function!
 let cardClicked = null
+
 // prevent same card from being a match
 let preventSameCard = false
 
